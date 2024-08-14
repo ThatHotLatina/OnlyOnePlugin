@@ -1,0 +1,13 @@
+name: OOP
+version: '1.0-SNAPSHOT'
+main: org.ThatHotLatina.oOP.OOP
+api-version: '1.21'
+load: STARTUP
+authors: [ ThatHotLatina ]
+description: OOP is designed to be a similar experience to the NEI Mod for minecraft except as a plugin, this will allow developers to add their own items and have them implemented in the plugin's GUI aslong as they follow the annotations written in the code.
+website: https://github.com/ThatHotLatina
+commands:
+
+  OOP:
+    description: Opens the menu gui
+    usage: /<command>
